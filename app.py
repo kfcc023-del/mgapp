@@ -14,7 +14,7 @@ st.markdown(
 )
 
 # GitHub Raw 이미지 URL 설정 (확장자에 맞춰 .png 또는 .jpg 변경 필요)
-GITHUB_IMAGE_URL = "https://raw.githubusercontent.com/<사용자명>/<저장소명>/<브랜치명>/image1.png"
+GITHUB_IMAGE_URL = "https://github.com/kfcc023-del/mgapp/blob/main/image1.jpg"
 
 # 이미지 출력
 st.image(
