@@ -14,7 +14,7 @@ st.markdown(
 )
 
 # GitHub Raw 이미지 URL 설정 (확장자에 맞춰 .png 또는 .jpg 변경 필요)
-GITHUB_IMAGE_URL = "https://github.com/kfcc023-del/mgapp/blob/main/image1.jpg"
+GITHUB_IMAGE_URL = "https://github.com/kfcc023-del/mgapp/raw/refs/heads/main/image1.jpg"
 
 # 이미지 출력
 st.image(
